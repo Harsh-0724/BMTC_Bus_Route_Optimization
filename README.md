@@ -1,4 +1,4 @@
-# ⚡ EcoTransit AI
+# ⚡ BMTCTransit AI
 
 EcoTransit AI is a full-stack "Digital Twin" application designed to optimize urban public transportation. By combining Graph Theory, real-time traffic heuristics, and Deep Learning (LSTM), this system dynamically reroutes buses to avoid peak-hour gridlock, respond to live incidents, and minimize carbon emissions.
 
@@ -40,3 +40,4 @@ EcoTransit-AI/
 │   ├── demand_model.py      # LSTM Model Training & Inference
 │   └── data/                # Saved .keras models and route data
 └── README.md
+
