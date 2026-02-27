@@ -1,0 +1,19 @@
+# Python Virtual Environments (Ignores these folders anywhere)
+pub/
+venv/
+env/
+__pycache__/
+
+# Frontend / Node (Ignores these folders anywhere)
+node_modules/
+dist/
+
+# Large Data & Models
+*.graphml
+*.keras
+*.h5
+*.dll
+
+# General
+.env
+.DS_Store
